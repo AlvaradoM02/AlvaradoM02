@@ -51,4 +51,4 @@ Disfruto asumir nuevos retos, colaborar con equipos multidisciplinarios y contin
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-dalvarado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-dalvarado/?isSelfProfile=true)
